@@ -1,4 +1,4 @@
-## Welcome to E2I space on Github! created by MjChung
+## Welcome to E2I space on Github! published by MjChung
 
 Here is basic code for newbie
 
